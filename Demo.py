@@ -20,3 +20,5 @@ print(num ** num2) #power
 print(num / num2)
 print(num == num2) #equal
 print(num != num2) #not equal
+num -= 5
+print(num)
