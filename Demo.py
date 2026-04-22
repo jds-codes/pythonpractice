@@ -20,5 +20,10 @@ print(num ** num2) #power
 print(num / num2)
 print(num == num2) #equal
 print(num != num2) #not equal
-num -= 5
 print(num)
+print (not True)
+print (not False)
+print(num and num2)
+print(num or num2)
+input("enter Your Name: ")
+print("welcome", name)
