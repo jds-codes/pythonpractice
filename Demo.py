@@ -13,3 +13,10 @@ print("My mother is",motherage,"years old")
 print(type(name))
 print(type(myage))
 print(type(fatherage))
+num=5
+num2=6
+print(num % num2) #remainder
+print(num ** num2) #power
+print(num / num2)
+print(num == num2) #equal
+print(num != num2) #not equal
