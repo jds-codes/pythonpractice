@@ -50,4 +50,10 @@ chr=str1[1:6]
 chrr=str3[-6:-1]
 print(chr)
 print(chrr)
+print(str1.capitalize())
+print(str1.endswith("ing"))
+print(str1.replace("i", "y"))
+print(str1.find("o"))
+print(str1.count("ing"))
+print(str2.count("$"))
 
