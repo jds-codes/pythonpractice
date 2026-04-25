@@ -56,10 +56,13 @@ print(str1.replace("i", "y"))
 print(str1.find("o"))
 print(str1.count("ing"))
 print(str2.count("$"))
-light="yellow"
+light="illuminati"
 if(light=="green"):
     print("you can go")
 elif(light=="yellow"):
     print("Look Everywhere")
 if(light=="red"):
     print("cannot Go")
+else:
+    print("light is broken")
+print ("Bye")
