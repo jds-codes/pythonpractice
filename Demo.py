@@ -76,7 +76,7 @@ else:
 
     print("holy shit")
 
-mark1=90
+mark1=int(input("enter student marks"))
 if(mark1==95):
     print=("A")
 elif(mark1>=80):
