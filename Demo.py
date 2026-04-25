@@ -66,3 +66,24 @@ if(light=="red"):
 else:
     print("light is broken")
 print ("Bye")
+agee=2
+if(agee>=14):
+    print("Go and watch movie")
+elif(agee==24):
+    print("Go and follow the vote rules")
+else:
+    print("Fuck Off")
+
+    print("holy shit")
+
+mark1=90
+if(mark1==95):
+    print=("A")
+elif(mark1>=80):
+    print("B")
+elif(mark1>=70):
+    print("C")
+else:
+    print("You are a shit")
+
+    print("good bye")
