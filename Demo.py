@@ -106,3 +106,11 @@ if(rem ==0):
     print("Even")
 else:
     print("ODD")
+
+j=3
+d=5
+s=9
+if(j>d and d>s):
+    print("j is greatest")
+else:
+    print("s is greatest")
