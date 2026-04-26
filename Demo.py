@@ -87,3 +87,22 @@ else:
     print("You are a shit")
 
     print("good bye")
+
+jds= 34
+if(jds>=18):
+    if(jds>=80):
+        print("cannot drive")
+    else:
+        print("can drive")
+
+else:
+    print("cannot drive")
+
+ds=int(input("enter your number"))
+
+rem= ds%2
+
+if(rem ==0):
+    print("Even")
+else:
+    print("ODD")
