@@ -17,6 +17,8 @@ print(student[0:2])
 list = [1.2,3]
 list.append(4)
 list.sort()
+list.sort(reverse=True)
+list.reverse()
 print(list)
 
 
