@@ -14,11 +14,16 @@ student[0]= "Name=Surjyo"
 print(student[0])
 print(student)
 print(student[0:2])
-list = [1.2,3]
+list = [1,2,3]
 list.append(4)
 list.sort()
 list.reverse()
 list.sort(reverse=True)
+print(list)
+list.insert(1,6)
+print(list)
+list.remove(3)
+list.pop(2)
 print(list)
 
 
