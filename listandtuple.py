@@ -4,3 +4,13 @@ print(len(marks))
 print(marks[0])
 print(marks[1])
 print(marks[2])
+
+student= ["Name=Jyotirmoy", "Age=23", "City=Dhaka", "Country=Bangladesh"]
+print(student[0])
+print(student[1])
+print(student[2])
+print(student[3])
+student[0]= "Name=Surjyo"
+print(student[0])
+print(student)
+
