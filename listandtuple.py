@@ -13,4 +13,5 @@ print(student[3])
 student[0]= "Name=Surjyo"
 print(student[0])
 print(student)
+print(student[0:2])
 
