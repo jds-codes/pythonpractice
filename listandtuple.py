@@ -14,4 +14,9 @@ student[0]= "Name=Surjyo"
 print(student[0])
 print(student)
 print(student[0:2])
+list = [1.2,3]
+list.append(4)
+list.sort()
+print(list)
+
 
