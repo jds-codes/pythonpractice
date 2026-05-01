@@ -26,4 +26,19 @@ list.remove(3)
 list.pop(2)
 print(list)
 
+tup= (1,2,3,4,5)
 
+print(type(tup))
+print(tup[0])
+print(tup.index(3))
+
+#problems
+movies= []
+mov = input("enter your first movie name :")
+movies.append(mov)
+mov = input("enter your second movie name :")
+movies.append(mov)
+mov3 = input("enter your third movie name :")
+movies.append(mov)
+
+print(movies)
