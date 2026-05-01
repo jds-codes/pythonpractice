@@ -42,3 +42,16 @@ mov3 = input("enter your third movie name :")
 movies.append(mov)
 
 print(movies)
+
+list1= [1,2,3,4,5]
+list2= [6,7,8,9,10]
+
+copy_list1= list1.copy()
+copy_list2= list2.copy()
+copy_list2.reverse()
+
+if(copy_list2 == copy_list2) :
+    print("The lists are the same")
+else :
+    print("The lists are different")
+
