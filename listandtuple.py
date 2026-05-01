@@ -55,3 +55,6 @@ if(copy_list2 == copy_list2) :
 else :
     print("The lists are different")
 
+grades= ["A", "A", "B", "C", "D", "F"]
+grades.sort()
+print(grades)
