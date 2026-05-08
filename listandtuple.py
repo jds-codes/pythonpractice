@@ -56,5 +56,5 @@ else :
     print("The lists are different")
 
 gradess= ["A", "A", "B", "C", "D", "F"]
-grades.sort()
-print(gradess)
+grade.sort()
+print(grades)
